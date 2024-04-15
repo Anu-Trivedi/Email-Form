@@ -1,0 +1,18 @@
+label{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+input{
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+textarea{
+    width: 500px;
+    height: 200px;
+}
+
+main{
+    margin: 40px 40px;
+}
